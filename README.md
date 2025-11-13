@@ -38,6 +38,8 @@ Setup a Raspberry Pi Zero (or any Pi) with a camera module and a momentary push 
 	- The script will create a folder with the current time and date you clicked the button, and numberically add photos to that folder as it takes them. (See screenshot below)
 	- If you click the button again, it should stop the timelapse, and the LED on the Pi will stop blinking on and off slowly.
 	- Every time you start the Timelapse, it will create a new folder with the current date and time where it will dump all photos taken.
+ - 3D printed Shell: Print the shell to fit the Pi Zero + UPS Battery + Camera.
+ 	- You will need to drill a small hole for the button to poke through. I did it this way so you can put a button anywhere you'd like or use any type of button you want.
 
 ## Photos
 ![Screenshot](https://github.com/dansl/Pi-Zero-Camera-Timelapse-Box/raw/refs/heads/main/photos/screenshot.png)
