@@ -15,8 +15,8 @@ Setup a Raspberry Pi Zero (or any Pi) with a camera module and a momentary push 
 - [Raspberry Pi Camera Module 3 (Autofocus)](https://www.raspberrypi.com/products/camera-module-3/)
 - [Waveshare UPS HAT](https://www.waveshare.com/ups-hat-c.htm)
 - [Momentary Push-Button Switch 6x6x12.5mm](https://www.digikey.com/en/product-highlight/s/schurter/6-mm-x-6-mm-tact-switches)
-- [3D Printed Top]()
-- [3D Printed Bottom]()
+- [3D Printed Top](https://github.com/dansl/Pi-Zero-Camera-Timelapse-Box/raw/refs/heads/main/3D%20Print/Top.stl)
+- [3D Printed Bottom](https://github.com/dansl/Pi-Zero-Camera-Timelapse-Box/raw/refs/heads/main/3D%20Print/Bottom.stl)
 
 ## Steps
 - Solder the Momentary Push Button Switch across GPIO pins 37 and 39. (See Images Below, 37=GPIO26 and 39=Ground)
