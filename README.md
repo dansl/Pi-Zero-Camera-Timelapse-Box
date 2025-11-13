@@ -1,4 +1,4 @@
-# Pi-Zero-Camera-Timelapse-Box
+# Pi Camera Timelapse Box
 ***WORK IN PROGRESS***
 
 Setup a Raspberry Pi Zero (or any Pi) with a camera module and a momentary push button, for a one click one hour timelapse taking a photo every 2 seconds!
